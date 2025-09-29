@@ -11,7 +11,7 @@ Esta práctica consiste en crear una escena 3D básica en Unity utilizando únic
 
 ## Ejecución
 
-A continuación se muestra un video de la ejecución de la escena (simulando un gif):
+A continuación se muestra un gif de la ejecución de la escena:
 
 
 
