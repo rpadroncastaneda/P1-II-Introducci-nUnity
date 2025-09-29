@@ -15,7 +15,7 @@ A continuación se muestra un video de la ejecución de la escena (simulando un 
 
 
 
-![video](./video.mp4)
+![Gif](Gif.gif)
 
 ## Script
 
