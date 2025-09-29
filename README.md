@@ -13,7 +13,9 @@ Esta práctica consiste en crear una escena 3D básica en Unity utilizando únic
 
 A continuación se muestra un video de la ejecución de la escena (simulando un gif):
 
-<video src="P1-InterfacesInteligentes - SampleScene - Windows, Mac, Linux - Unity 6.2 (6000.2.6f1)_ _DX12_ 2025-09-29 19-06-16.mp4" autoplay loop controls width="600"></video>
+
+
+![video](./video.mp4)
 
 ## Script
 
